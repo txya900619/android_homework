@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">108820038_HW4-1</string>
+    <string name="count_button_text">count</string>
+    <string name="count_init_text">0</string>
+    <string name="edit_text_placeholder">put some text</string>
+</resources>

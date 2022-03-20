@@ -15,9 +15,13 @@
   -->
 
 <resources>
-    <string name="app_name">108820038_HW3-2</string>
-    <string name="button_label_toast">Say Hello</string>
-    <string name="button_label_count">Count</string>
-    <string name="count_initial_value">0</string>
-    <string name="hello">Hello!</string>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
 </resources>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <!--
   ~ Copyright (C) 2018 Google Inc.
   ~
@@ -15,9 +16,7 @@
   -->
 
 <resources>
-    <string name="app_name">108820038_HW3-2</string>
-    <string name="button_label_toast">Say Hello</string>
-    <string name="button_label_count">Count</string>
-    <string name="count_initial_value">0</string>
-    <string name="hello">Hello!</string>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
 </resources>
